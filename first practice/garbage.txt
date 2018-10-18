@@ -1,0 +1,22 @@
+total 3256
+-rw-r--r--@  1 cxs81a9  staff    76504 Sep  4 10:21 Corporate Security Badge Access Authorization Form-2016 (2).docx
+-rw-r--r--@  1 cxs81a9  staff  1432576 Sep 17 13:19 DB Connections Cheat Sheet_v2.docx
+-rw-r--r--   1 cxs81a9  staff     1368 Aug 31 15:04 DateTesting.class
+-rw-r--r--   1 cxs81a9  staff     1208 Aug 31 15:04 DateTesting.java
+-rw-r--r--   1 cxs81a9  staff      445 Sep 17 11:26 DeciTesting.java
+-rw-r--r--@  1 cxs81a9  staff    16624 Oct  1 16:47 Deploying a new GCP application through Blue Ocean.docx
+-rw-r--r--@  1 cxs81a9  staff    15890 Oct  1 16:12 Deploying a new application through Blue Ocean.docx
+drwxr-xr-x  21 cxs81a9  staff      672 Oct 12 16:00 DockerizeMeCaptain
+-rw-r--r--@  1 cxs81a9  staff  1663460 Oct  9 14:25 MSFBatch Notes.docx
+-rw-r--r--@  1 cxs81a9  staff    26204 Sep  4 14:22 MTC Onboarding Form.docx
+-rw-r--r--@  1 cxs81a9  staff    11605 Oct  4 10:01 Pubsub.docx
+-rw-r--r--   1 cxs81a9  staff     1738 Aug 22 16:17 defaults.js
+-rw-r--r--   1 cxs81a9  staff        0 Oct 18 14:48 demo1.txt
+-rw-r--r--   1 cxs81a9  staff        0 Oct 18 14:48 demo2.txt
+-rw-r--r--   1 cxs81a9  staff     4727 Aug 31 15:06 jmeter.log
+-rw-r--r--@  1 cxs81a9  staff    30742 Sep 25 09:28 t.java
+-rwxr-xr-x@  1 cxs81a9  staff       51 Oct 18 11:58 testing.sh
+-rwxr-xr-x@  1 cxs81a9  staff      138 Oct 18 14:21 testing2.sh
+-rwxr-xr-x   1 cxs81a9  staff       95 Oct 18 14:45 testing3.sh
+-rwxr-xr-x   1 cxs81a9  staff      175 Oct 18 14:48 testing4.sh
+-rw-r--r--@  1 cxs81a9  staff      162 Sep  4 14:22 ~$C Onboarding Form.docx
